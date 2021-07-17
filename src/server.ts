@@ -1,7 +1,8 @@
 import express from 'express';
-// import path from 'path';
 import cors from 'cors';
+import 'reflect-metadata';
 import router from './routers';
+// import path from 'path';
 
 // import 'express-async-errors';
 // import errorHandler from './errors/handler';

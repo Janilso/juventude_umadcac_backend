@@ -5,7 +5,7 @@
 Principais dependências do projeto:
 
 - express
-- multer
+<!-- - multer -->
 - typeorm
 - yup
 
