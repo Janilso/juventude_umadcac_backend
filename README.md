@@ -5,6 +5,7 @@
 Principais dependências do projeto:
 
 - express
+- express-validator
 <!-- - multer -->
 - typeorm
 - yup
